@@ -1,0 +1,11 @@
+modelo;marca;preco;manutencao;portas;assentos;porta_malas;seguranca;combustivel;cambio;ano_modelo;consumo_medio;cor;imagem
+Onix;Chevrolet;med;low;4;5;med;high;gasolina;manual;2022;13;prata;imagens/onix.jpg
+HB20;Hyundai;med;med;4;5;med;med;etanol;automático;2023;12;branco;imagens/hb20.jpg
+Corolla;Toyota;high;low;4;5;big;high;híbrido;CVT;2024;17;preto;imagens/corolla.jpeg
+Compass;Jeep;vhigh;high;4;5;big;high;diesel;automático;2024;10;prata;imagens/compress.jpeg
+Kwid;Renault;low;med;4;5;small;med;gasolina;manual;2021;15;vermelho;imagens/kwid.jpg
+Civic;Honda;high;med;4;5;med;high;gasolina;CVT;2023;14;cinza;imagens/civic.jpg
+Argo;Fiat;low;low;4;5;small;med;gasolina;manual;2022;14;vermelho;imagens/argo.jpg
+Tracker;Chevrolet;med;high;4;5;med;high;diesel;automático;2023;11;branco;imagens/tracker.jpg
+Gol;Volkswagen;low;low;4;5;med;med;gasolina;manual;2022;13;azul;imagens/gol.jpg
+Sandero;Renault;low;med;4;5;med;med;gasolina;manual;2022;14;prata;imagens/sandero.jpg
